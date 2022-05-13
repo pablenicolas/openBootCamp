@@ -1,0 +1,17 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de JavaScript con node",
+  "main": "index.js",
+  "scripts": {
+    "homework":"node homework.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo",
+    "firstproject"
+  ],
+  "author": "PabloNuñez",
+  "license": "ISC"
+
+}
