@@ -1,5 +1,3 @@
-// - Una variable booleana que diga si el Nombre está contenido en la variable "estudiante"
-
 // String con mi nombre
 const a = "Pablo"
 
@@ -37,3 +35,7 @@ console.log(del)
 //  Variable booleana
 const buscador = estudiante.includes(a)
 console.log(buscador)
+
+// - Una variable booleana que diga si el Nombre está contenido en la variable "estudiante"
+var booleana = estudiante.includes(a)
+console.log(booleana)
